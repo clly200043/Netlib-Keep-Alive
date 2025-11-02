@@ -35,8 +35,7 @@
 
 2. **配置 Secrets**
 
-   * 在仓库 `Settings` → `Secrets and variables` → `Actions` → `New repository secret` 中为每个账号添加用户名和密码，例如：
-   * 格式如下（每个账号用 `;` 分隔，每个账号用户名和密码用 `,` 分隔）：、
+   * 在仓库 `Settings` → `Secrets and variables` → `Actions` → `New repository secret` 中为单个账号添加用户名和密码，例如：
 
 `UZANTONOMO`填入：你的用户名  
 `PASVORTO`填入：你的密码  
